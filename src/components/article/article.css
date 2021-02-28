@@ -1,0 +1,27 @@
+.article {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .article button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(80, 71, 71);
+    background-color: rgb(228, 215, 215);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .article button:hover {
+    opacity: 0.7;
+  }
+
+  .articles {
+      padding-top: 10px;
+  }
